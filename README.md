@@ -12,9 +12,9 @@ To describe the practical steps of how you host and format your resume and to re
 - Using a lightweight Markdown editor to write your resume and your README file is essential as it will broaden the compatibility of that file all across any devices and/or sites.
 - One example of a Markdown editor is StackEdit. StackEdit lets you write Markdown files conveniently and efficiently.
 ## Use a Distributed Version Control System
-- Making use of a version control system is very crucial in software development. 
+- Making use of a version control system is very crucial in software development. Users
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc5MTU3MTc1LDE2NjIzMjE5NDQsLTMyOT
-M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
-MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTc4NzMxOTMxNywxNjYyMzIxOTQ0LC0zMj
+kzNDU1NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYz
+NjI2LC0yMDg4NzQ2NjEyXX0=
 -->

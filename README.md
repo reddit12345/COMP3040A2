@@ -8,8 +8,9 @@ To describe the practical steps of how you host and format your resume and to re
 - (Optional) Github pages or any other static site generator
 
 # Instructions
-##
+## Use a lightweight Markdown
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQ4ODY1MTksLTExNjkwMjM4MDEsMT
-UzNzczMTkzOSwxODIwNjYzNjI2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTg3MTc4MDc0OSwtMTE2OTAyMzgwMSwxNT
+M3NzMxOTM5LDE4MjA2NjM2MjYsLTIwODg3NDY2MTJdfQ==
 -->

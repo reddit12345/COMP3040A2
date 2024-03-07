@@ -11,9 +11,10 @@ To describe the practical steps of how you host and format your resume and to re
 ## Use a lightweight Markdown
 - Using a lightweight Markdown editor to write your resume and your README file is essential as it will broaden the compatibility of that file all across any devices and/or sites.
 - One example of a Markdown editor is StackEdit. StackEdit lets you write Markdown files conveniently and efficiently.
-## 
+## Use a Distributed Version Control
+- A Distributed Version Control
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjUxMTUxMTksMTY2MjMyMTk0NCwtMz
-I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
-MzYyNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMzg3NjcxMTY1LDE2NjIzMjE5NDQsLTMyOT
+M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
+MjYsLTIwODg3NDY2MTJdfQ==
 -->

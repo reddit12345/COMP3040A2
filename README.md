@@ -4,9 +4,11 @@ To describe the practical steps of how you host and format your resume and to re
 
 ## Prerequisites
 - A resume in markdown format
+- (Optional) Github pages or any other static site generator
 
-## 
+## Instructions
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEwMDQ5MjQzLDE4MjA2NjM2MjYsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTUzNzczMTkzOSwxODIwNjYzNjI2LC0yMD
+g4NzQ2NjEyXX0=
 -->

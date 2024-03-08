@@ -27,9 +27,10 @@ To describe the practical steps of how you host and format your resume and to re
 
 ## Hosting a Static Website
 - Static site generators offers a good way to build documentation websites easily.
-- Site generators processes markup languages (like Markdown) to provide a variety of themes 
+- Site generators processes markup languages (like Markdown) to provide a unique variety of themes to let the documentation stand out.
+- Jekyll is one of many site generators 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMDI4MTg2MSwxNjYyMzIxOTQ0LC0zMj
-kzNDU1NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYz
-NjI2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTE2NTczMzE0MTAsMTY2MjMyMTk0NCwtMz
+I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
+MzYyNiwtMjA4ODc0NjYxMl19
 -->

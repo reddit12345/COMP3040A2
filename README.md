@@ -65,13 +65,17 @@ To describe the practical steps of how you host and format your resume on Github
 3. On your resume add in:
 `![Any Text Here](file-name.gif)`
 
+# Authors and Acknowledgements
+-Sachin Bhatt
+
+
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTA4Mzc5OCwyMDcyOTc3NzIzLDEwMD
-Y0MzE4MjMsMjEzODk0NjI3NSwtNDEzNzMwODM3LDE2NzcxOTE4
-MjQsMjA2NDkzNjY1Myw5NjI0Mjc1MDQsMzUxMzI0MTgxLDEyMT
-c1Mjg2MDksMTA3OTIyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0
-NCwtMzI5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMT
-gyMDY2MzYyNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTY1NDM1ODc3NywxMzgxMDgzNzk4LDIwNz
+I5Nzc3MjMsMTAwNjQzMTgyMywyMTM4OTQ2Mjc1LC00MTM3MzA4
+MzcsMTY3NzE5MTgyNCwyMDY0OTM2NjUzLDk2MjQyNzUwNCwzNT
+EzMjQxODEsMTIxNzUyODYwOSwxMDc5MjIzMDksLTY0MjQyMDA5
+NywxNjYyMzIxOTQ0LC0zMjkzNDU1NjksLTExNjkwMjM4MDEsMT
+UzNzczMTkzOSwxODIwNjYzNjI2LC0yMDg4NzQ2NjEyXX0=
 -->

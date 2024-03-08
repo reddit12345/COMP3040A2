@@ -19,7 +19,7 @@ To describe the practical steps of how you host and format your resume on Github
 3.  Use lists (**-**) and numbers ("**1**") with an appropriate heading to let readers follow along the instructions more clearly.
 4. Use easy-to-understand words to broaden your target audience and therefore give clarity and conciseness to what you want to say.
 ## 2. Use a Distributed Version Control System
-#### Etter's Principle: Version Co
+#### Etter's Principle: Version Control
 -   Making use of a distributed version control system (DVCS) is paramount in software development. This tool is incredibly powerful - offering scalability, auditing, collaboration, and recovery features essential for successful software development endeavors.
 - Github is one of the many DVCS out there and offers robust features to help you start, organize, and maintain your work development.
 ### Creating a Github repository
@@ -45,7 +45,7 @@ To describe the practical steps of how you host and format your resume on Github
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk1MTc4NTcxLDEwMDY0MzE4MjMsMjEzOD
+eyJoaXN0b3J5IjpbNTg3NzYwMjUwLDEwMDY0MzE4MjMsMjEzOD
 k0NjI3NSwtNDEzNzMwODM3LDE2NzcxOTE4MjQsMjA2NDkzNjY1
 Myw5NjI0Mjc1MDQsMzUxMzI0MTgxLDEyMTc1Mjg2MDksMTA3OT
 IyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0NCwtMzI5MzQ1NTY5

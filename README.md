@@ -33,10 +33,10 @@ To describe the practical steps of how you host and format your resume and to re
  
  ### Hosting the resume in a static website
  1. With an existing resume already uploaded on Github, rename it to "**index.html**."
- 2. Configure a 
+ 2. Confi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNzUyODYwOSwxMDc5MjIzMDksLTY0Mj
-QyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1NjksLTExNjkwMjM4
-MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbMzUxMzI0MTgxLDEyMTc1Mjg2MDksMTA3OT
+IyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0NCwtMzI5MzQ1NTY5
+LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2MzYyNiwtMj
+A4ODc0NjYxMl19
 -->

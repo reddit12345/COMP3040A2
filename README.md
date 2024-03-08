@@ -45,12 +45,13 @@ To describe the practical steps of how you host and format your resume on Github
 4. Visit the site via ***username*.github.io** (Change *username* to whatever is the name of your repository).
 
 ## 4. Resume Customization and Update
-#### Etter's Principle: 
+#### Etter's Principle: User-focused
+- 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTk5MDg4NzgsMTAwNjQzMTgyMywyMT
+eyJoaXN0b3J5IjpbLTE4NTQ1NzMwNjQsMTAwNjQzMTgyMywyMT
 M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
 NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
 c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1

@@ -77,7 +77,14 @@ To describe the practical steps of how you host and format your resume on Github
 - Check any spelling or grammatical errors and try again.
 - If the site is currently being built, you may need to wait for a few seconds and refresh the page.
 
-### 2. 
+### 2. Why is my GIF not showing in my resume?
+- Check if your .gif file is correctly located in the appropriate branch of your repository. If it's in another repository, make sure to add the root directory before the name of the .gif file
+- Make sure that the code is typed correctly.
+
+### 3. How does Github automatically know which file to use to show in the static site?
+- Github is powered by Jekyll. Jekyll is a static-site generator where Markdown file formats are converted into html files
+
+
  
 
 <!--stackedit_data:

@@ -1,6 +1,6 @@
 # Hosting a Resume on Github
 # About
-To describe the practical steps of how you host and format your resume on Github to share your professional portfolio with future employers and 
+To describe the practical steps of how you host and format your resume on Github to share your professional portfolio with future employers and other collaborative individuals.
 
 # Prerequisites
 - A resume in markdown format
@@ -16,7 +16,8 @@ To describe the practical steps of how you host and format your resume on Github
 ### Writing a Markdown file
 1. Firstly, you have to know your target audience as it is important to set the tone of your document.
 2. Structure the content of your resume by placing appropriate headings (Use **#** followed by the title of the header)
-3.  Use bullet points, dashes, or 
+3.  Use bullet points, dashes, or numbered lines with an appropriate heading to let users follow along the instructions more clearly.
+4. 
 ## 2. Use a Distributed Version Control System
 -   Making use of a distributed version control system (DVCS) is paramount in software development. This tool is incredibly powerful - offering scalability, auditing, collaboration, and recovery features essential for successful software development endeavors.
 - Github is one of the many DVCS out there and offers robust features to help you start, organize, and maintain your work development.
@@ -43,10 +44,10 @@ To describe the practical steps of how you host and format your resume on Github
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2OTU3NzQ0LDEwMDY0MzE4MjMsMjEzOD
-k0NjI3NSwtNDEzNzMwODM3LDE2NzcxOTE4MjQsMjA2NDkzNjY1
-Myw5NjI0Mjc1MDQsMzUxMzI0MTgxLDEyMTc1Mjg2MDksMTA3OT
-IyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0NCwtMzI5MzQ1NTY5
-LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2MzYyNiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE0NTg3NzE3NjcsMTAwNjQzMTgyMywyMT
+M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
+NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
+c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
+NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
+0yMDg4NzQ2NjEyXX0=
 -->

@@ -66,13 +66,18 @@ To describe the practical steps of how you host and format your resume on Github
 `![Any Text Here](file-name.gif)`
 
 # Authors and Acknowledgements
--Sachin Bhatt
+- Sachin Bhatt
+- Benedict Agupitan
 
+# FAQs
+
+### 1. Why is my static site not found?
+-
 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NDM1ODc3NywxMzgxMDgzNzk4LDIwNz
+eyJoaXN0b3J5IjpbMTc0MzU1NzUwNywxMzgxMDgzNzk4LDIwNz
 I5Nzc3MjMsMTAwNjQzMTgyMywyMTM4OTQ2Mjc1LC00MTM3MzA4
 MzcsMTY3NzE5MTgyNCwyMDY0OTM2NjUzLDk2MjQyNzUwNCwzNT
 EzMjQxODEsMTIxNzUyODYwOSwxMDc5MjIzMDksLTY0MjQyMDA5

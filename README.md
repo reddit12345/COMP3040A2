@@ -15,7 +15,8 @@ To describe the practical steps of how you host and format your resume and to re
 
 ### Writing a Markdown file
 1. Firstly, you have to know your target audience as it is important to set the tone of your document.
-2. Structure the content of your resume by placing appropriate headings (use #
+2. Structure the content of your resume by placing appropriate headings (Use **#** followed by the title of the header)
+3.  Headings emphasize 
 ## 2. Use a Distributed Version Control System
 -   Making use of a distributed version control system (DVCS) is paramount in software development. This tool is incredibly powerful - offering scalability, auditing, collaboration, and recovery features essential for successful software development endeavors.
 - Github is one of the many DVCS out there and offers robust features to help you start, organize, and maintain your work development.
@@ -42,7 +43,7 @@ To describe the practical steps of how you host and format your resume and to re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzY5NjY0MzksMjEzODk0NjI3NSwtND
+eyJoaXN0b3J5IjpbLTEwMzgzNDUyNDMsMjEzODk0NjI3NSwtND
 EzNzMwODM3LDE2NzcxOTE4MjQsMjA2NDkzNjY1Myw5NjI0Mjc1
 MDQsMzUxMzI0MTgxLDEyMTc1Mjg2MDksMTA3OTIyMzA5LC02ND
 I0MjAwOTcsMTY2MjMyMTk0NCwtMzI5MzQ1NTY5LC0xMTY5MDIz

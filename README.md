@@ -84,6 +84,9 @@ To describe the practical steps of how you host and format your resume on Github
 ### 3. How does Github automatically know which file to use to show in the static site?
 - Github is powered by Jekyll. Jekyll is a static-site generator where Markdown file formats are converted into html files
 
+### 4. Why is Markdown better than a word processor?
+- Markdown offers several advantages compared to a word processor. One of the many advantages of a Markdown is its ability to be consistent across multiple platforms and is regarded as a standard. It is also lightweight and uses simple syntax to emphasize readability and user-centricity.
+
 
  
 

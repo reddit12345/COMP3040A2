@@ -32,11 +32,10 @@ To describe the practical steps of how you host and format your resume and to re
 - Jekyll is one of many site generators currently being used by thousands.
  
  ### Hosting the resume in a static website
- 1. With an existing resume already uploaded on Github, rename it to "**index.html**."
- 2. Confi
+1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxMzI0MTgxLDEyMTc1Mjg2MDksMTA3OT
-IyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0NCwtMzI5MzQ1NTY5
-LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2MzYyNiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTE2ODQ4MDUwLDM1MTMyNDE4MSwxMjE3NT
+I4NjA5LDEwNzkyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQs
+LTMyOTM0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4Mj
+A2NjM2MjYsLTIwODg3NDY2MTJdfQ==
 -->

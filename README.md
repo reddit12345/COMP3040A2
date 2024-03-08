@@ -46,15 +46,17 @@ To describe the practical steps of how you host and format your resume on Github
 
 ## 4. Resume Customization and Update
 #### Etter's Principle: User-focused
-- 
+- The appearance and content of your resume should adhere to the expectations of your target audience
+
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ1NzMwNjQsMTAwNjQzMTgyMywyMT
-M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
-NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
-c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
-NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNTIxMzU3NjM2LDEwMDY0MzE4MjMsMjEzOD
+k0NjI3NSwtNDEzNzMwODM3LDE2NzcxOTE4MjQsMjA2NDkzNjY1
+Myw5NjI0Mjc1MDQsMzUxMzI0MTgxLDEyMTc1Mjg2MDksMTA3OT
+IyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0NCwtMzI5MzQ1NTY5
+LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2MzYyNiwtMj
+A4ODc0NjYxMl19
 -->

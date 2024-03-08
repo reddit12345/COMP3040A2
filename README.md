@@ -9,7 +9,8 @@ To describe the practical steps of how you host and format your resume on Github
 - README file (in Markdown format)
 
 # Instructions
-![The sample of my resume](resume-sample.gif)
+
+![Sample_Resume](sample-resume.gif)
 
 ## 1. Prepare your resume
 #### Etter's Principle: Structured Content

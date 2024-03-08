@@ -25,9 +25,10 @@ To describe the practical steps of how you host and format your resume and to re
 2. Find the necessary files needed to be placed in the repository.
 3. Once all files are ready to be committed, click on "**Commit Changes**".
 
-## Hosting 
+## Hosting a Static Website
+- Static 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MTc1NzcwLDE2NjIzMjE5NDQsLTMyOT
-M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
-MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTUxOTU2NzEyNSwxNjYyMzIxOTQ0LC0zMj
+kzNDU1NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYz
+NjI2LC0yMDg4NzQ2NjEyXX0=
 -->

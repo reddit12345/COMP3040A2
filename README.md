@@ -1,4 +1,4 @@
-# README
+# Applying Etter's Modern Technical Writing principles to host an online resume and README
 # About
 To describe the practical steps of how you host and format your resume and to relate the practical steps to the general principles of current Technical Writing, as explained in Andrew Etter's book Modern Technical Writing.
 
@@ -32,16 +32,16 @@ To describe the practical steps of how you host and format your resume and to re
 - Jekyll is one of many site generators currently being used by thousands.
  
  ### Hosting the resume in a static website
-1. Rename your resume to "**index.md**", this lets Jekyll-powered Github to run the resume as the main page of the static site.
+1. Rename your resume to "**index.md**", this lets Github run the resume as the main page of the static site using Jekyll.
 2. You may use templates by forking pre-existing samples by other users to your repository.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNj
-Q5MzY2NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5
-LDEwNzkyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOT
-M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
-MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTg3MTUzMDA3OSwtNDEzNzMwODM3LDE2Nz
+cxOTE4MjQsMjA2NDkzNjY1Myw5NjI0Mjc1MDQsMzUxMzI0MTgx
+LDEyMTc1Mjg2MDksMTA3OTIyMzA5LC02NDI0MjAwOTcsMTY2Mj
+MyMTk0NCwtMzI5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5
+MzksMTgyMDY2MzYyNiwtMjA4ODc0NjYxMl19
 -->

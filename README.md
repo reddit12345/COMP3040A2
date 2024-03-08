@@ -11,7 +11,7 @@ To describe the practical steps of how you host and format your resume on Github
 # Instructions
 ## 1. Prepare your resume
 #### Etter's Principle: Structured Content
-- Using a lightweight Markdown editor to write your resume and your README file is essential to organizing our document which provides scalability and efficiency.
+- Using a lightweight Markdown editor to write your resume and your README file is essential to organizing our document which would also provide ease-of-use and efficiency.
 
 ### Writing a Markdown file
 1. Firstly, you have to know your target audience as it is important to set the tone of your document.
@@ -44,10 +44,10 @@ To describe the practical steps of how you host and format your resume on Github
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNjg3MDI4MSwxMDA2NDMxODIzLDIxMz
-g5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNjQ5MzY2
-NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5LDEwNz
-kyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOTM0NTU2
-OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2MjYsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4ODI3NzMxMjcsMTAwNjQzMTgyMywyMT
+M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
+NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
+c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
+NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
+0yMDg4NzQ2NjEyXX0=
 -->

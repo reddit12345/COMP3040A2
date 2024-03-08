@@ -17,7 +17,7 @@ To describe the practical steps of how you host and format your resume on Github
 1. Firstly, you have to know your target audience as it is important to set the tone of your document.
 2. Structure the content of your resume by placing appropriate headings (Use **#** followed by the title of the header)
 3.  Use bullet points, dashes, or numbered lines with an appropriate heading to let readers follow along the instructions more clearly.
-4. Use easy-to-understand words to broaden your target audience and therefore give clarity and conciseness 
+4. Use easy-to-understand words to broaden your target audience and therefore give clarity and conciseness to what you want to say.
 ## 2. Use a Distributed Version Control System
 -   Making use of a distributed version control system (DVCS) is paramount in software development. This tool is incredibly powerful - offering scalability, auditing, collaboration, and recovery features essential for successful software development endeavors.
 - Github is one of the many DVCS out there and offers robust features to help you start, organize, and maintain your work development.
@@ -44,7 +44,7 @@ To describe the practical steps of how you host and format your resume on Github
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0OTkwNDUzMCwxMDA2NDMxODIzLDIxMz
+eyJoaXN0b3J5IjpbMTY5OTM5MzI4MiwxMDA2NDMxODIzLDIxMz
 g5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNjQ5MzY2
 NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5LDEwNz
 kyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOTM0NTU2

@@ -32,10 +32,10 @@ To describe the practical steps of how you host and format your resume and to re
 - Jekyll is one of many site generators currently being used by thousands.
  
  ### Hosting the resume in a static website
-1. Install and
+1. Doing a 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NT
-I4NjA5LDEwNzkyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQs
-LTMyOTM0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4Mj
-A2NjM2MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExNDc1NDkzMzQsOTYyNDI3NTA0LDM1MT
+MyNDE4MSwxMjE3NTI4NjA5LDEwNzkyMjMwOSwtNjQyNDIwMDk3
+LDE2NjIzMjE5NDQsLTMyOTM0NTU2OSwtMTE2OTAyMzgwMSwxNT
+M3NzMxOTM5LDE4MjA2NjM2MjYsLTIwODg3NDY2MTJdfQ==
 -->

@@ -36,20 +36,20 @@ To describe the practical steps of how you host and format your resume on Github
 - Static site generators offers a good way to build documentation websites easily. Thus, letting users to share their documents, such as resumes, portfolios, and other things to the internet.
 
 ### Enable Github Pages
-1. Under the **Repository Settings**, 
+1. Under the **Repository Settings**, select the branch where your resume is located.
  
  ### Hosting the resume in a static website
-1. Rename your resume to "**index.md**", this lets Github run the resume as the main page of the static site using Jekyll.
-2. You may use templates by forking pre-existing samples by other users to your repository.
+3. Rename your resume to "**index.md**", this lets Github run the resume as the main page of the static site using Jekyll.
+4. You may use templates by forking pre-existing samples by other users to your repository.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MjExNTY4NywxMDA2NDMxODIzLDIxMz
-g5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNjQ5MzY2
-NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5LDEwNz
-kyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOTM0NTU2
-OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2MjYsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEwNjMwODI1NjEsMTAwNjQzMTgyMywyMT
+M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
+NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
+c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
+NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
+0yMDg4NzQ2NjEyXX0=
 -->

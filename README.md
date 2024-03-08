@@ -26,9 +26,10 @@ To describe the practical steps of how you host and format your resume and to re
 3. Once all files are ready to be committed, click on "**Commit Changes**".
 
 ## Hosting a Static Website
-- Static site generators offers a good way to build documentation websites easily with your 
+- Static site generators offers a good way to build documentation websites easily.
+- Site generators processes markup languages (like Markdown) to provide a variety of themes 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM0Mjg1MDMsMTY2MjMyMTk0NCwtMz
-I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
-MzYyNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTUzMDI4MTg2MSwxNjYyMzIxOTQ0LC0zMj
+kzNDU1NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYz
+NjI2LC0yMDg4NzQ2NjEyXX0=
 -->

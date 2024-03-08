@@ -56,15 +56,17 @@ To describe the practical steps of how you host and format your resume on Github
 5. Click on **Commit Changes...** once you are finished.
 
 ## 5. Adding GIFs
+![The sample of my resume](resume-sample.gif)
+1. Go to your repository where your resume (
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3Mjk3NzcyMywxMDA2NDMxODIzLDIxMz
-g5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNjQ5MzY2
-NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5LDEwNz
-kyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOTM0NTU2
-OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2MjYsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0OTAyMzc1MDQsMjA3Mjk3NzcyMywxMD
+A2NDMxODIzLDIxMzg5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkx
+ODI0LDIwNjQ5MzY2NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMj
+E3NTI4NjA5LDEwNzkyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5
+NDQsLTMyOTM0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LD
+E4MjA2NjM2MjYsLTIwODg3NDY2MTJdfQ==
 -->

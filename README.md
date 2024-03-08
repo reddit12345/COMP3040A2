@@ -1,6 +1,6 @@
-# Applying Etter's Modern Technical Writing principles to host an online resume and README
+# Hosting a Resume on Github
 # About
-To describe the practical steps of how you host and format your resume and to relate the practical steps to the general principles of current Technical Writing, as explained in Andrew Etter's book Modern Technical Writing.
+To describe the practical steps of how you host and format your resume on Github and to relate the practical steps to the general principles of current Technical Writing.
 
 # Prerequisites
 - A resume in markdown format
@@ -43,10 +43,10 @@ To describe the practical steps of how you host and format your resume and to re
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjQzMTgyMywyMTM4OTQ2Mjc1LC00MT
-M3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2NjUzLDk2MjQyNzUw
-NCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMDc5MjIzMDksLTY0Mj
-QyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1NjksLTExNjkwMjM4
-MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTE2ODE4ODA5NjQsMTAwNjQzMTgyMywyMT
+M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
+NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
+c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
+NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
+0yMDg4NzQ2NjEyXX0=
 -->

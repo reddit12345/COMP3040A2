@@ -31,9 +31,10 @@ To describe the practical steps of how you host and format your resume and to re
 - Site generators processes markup languages (like Markdown) to provide a unique variety of themes to let the documentation stand out.
 - Jekyll is one of many site generators currently being used by thousands.
  
- ### Host
+ ### Hosting the resume in a static website
+ 1. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTY3ODUwOTI2LDE2NjIzMjE5NDQsLTMyOT
-M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
-MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIwMjQ5NzAyNzYsMTY2MjMyMTk0NCwtMz
+I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
+MzYyNiwtMjA4ODc0NjYxMl19
 -->

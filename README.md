@@ -44,15 +44,16 @@ To describe the practical steps of how you host and format your resume on Github
 3. Refresh the page until you see that the pending symbol has turned into a green check mark.
 4. Visit the site via ***username*.github.io** (Change *username* to whatever is the name of your repository).
 
-## 4. Cu
+## 4. Resume Customization and Update
+#### Etter's Principle: 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTMyNjMwNCwxMDA2NDMxODIzLDIxMz
-g5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNjQ5MzY2
-NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5LDEwNz
-kyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOTM0NTU2
-OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2MjYsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMTk5MDg4NzgsMTAwNjQzMTgyMywyMT
+M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
+NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
+c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
+NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
+0yMDg4NzQ2NjEyXX0=
 -->

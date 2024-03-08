@@ -33,7 +33,10 @@ To describe the practical steps of how you host and format your resume on Github
 
 ## 3. Build a Static Website
 #### Etter's Principle: Accessibility
-- Static site generators offers a good way to build documentation websites easily. Thus, letting users to share their documents, such as resumes, portfolios, and other things to 
+- Static site generators offers a good way to build documentation websites easily. Thus, letting users to share their documents, such as resumes, portfolios, and other things to the internet.
+
+### Enable Github Pages
+1. Under the Reposit
  
  ### Hosting the resume in a static website
 1. Rename your resume to "**index.md**", this lets Github run the resume as the main page of the static site using Jekyll.
@@ -43,10 +46,10 @@ To describe the practical steps of how you host and format your resume on Github
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MjAxNTUzLDEwMDY0MzE4MjMsMjEzOD
-k0NjI3NSwtNDEzNzMwODM3LDE2NzcxOTE4MjQsMjA2NDkzNjY1
-Myw5NjI0Mjc1MDQsMzUxMzI0MTgxLDEyMTc1Mjg2MDksMTA3OT
-IyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0NCwtMzI5MzQ1NTY5
-LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2MzYyNiwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE3MDI1NjM0NjQsMTAwNjQzMTgyMywyMT
+M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
+NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
+c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
+NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
+0yMDg4NzQ2NjEyXX0=
 -->

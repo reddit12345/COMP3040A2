@@ -59,13 +59,15 @@ To describe the practical steps of how you host and format your resume on Github
 
 
 # More Resources
-## Adding GIF
+## Adding GIFs to Resume
+1. On Github, go to your repository where your resume is located.
+2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTI4NzA0ODcsMjA3Mjk3NzcyMywxMD
-A2NDMxODIzLDIxMzg5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkx
-ODI0LDIwNjQ5MzY2NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMj
-E3NTI4NjA5LDEwNzkyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5
-NDQsLTMyOTM0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LD
-E4MjA2NjM2MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5MDQ2NzIyNiwyMDcyOTc3NzIzLDEwMD
+Y0MzE4MjMsMjEzODk0NjI3NSwtNDEzNzMwODM3LDE2NzcxOTE4
+MjQsMjA2NDkzNjY1Myw5NjI0Mjc1MDQsMzUxMzI0MTgxLDEyMT
+c1Mjg2MDksMTA3OTIyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0
+NCwtMzI5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMT
+gyMDY2MzYyNiwtMjA4ODc0NjYxMl19
 -->

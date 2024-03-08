@@ -23,9 +23,10 @@ To describe the practical steps of how you host and format your resume and to re
 ### Uploading files
 1. To upload existing files, click on "**Add File**" -> "**Upload Files**".
 2. Find the necessary files needed to be placed in the repository.
-3. Once all files are ready to be committed, click on 
+3. Once all files are ready to be committed, click on "**Commit Changes**".
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDI4MTM2NDQsMTY2MjMyMTk0NCwtMz
+eyJoaXN0b3J5IjpbLTE4NDUxNzIxNTQsMTY2MjMyMTk0NCwtMz
 I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
 MzYyNiwtMjA4ODc0NjYxMl19
 -->

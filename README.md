@@ -16,12 +16,13 @@ To describe the practical steps of how you host and format your resume and to re
 -   Making use of a distributed version control system (DVCS) is paramount in software development. This tool is incredibly powerful - offering scalability, auditing, collaboration, and recovery features essential for successful software development endeavors.
 - Github is one of the many DVCS out there and offers robust features to help you start, organize, and maintain your work development.
 ### Creating a repository
-1. On Github home page, click on home -> Repositories.
-2. On the repositories section, click "New".
+1. On Github home page, click on **home -> Repositories.**
+2. On the repositories section, click "**New**".
 3. Give the repository a name. Optionally, you may add a description.
-4. 
+4. Set it as public, then click "**Create Repository**"
+5. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NTAxNjM2LDE2NjIzMjE5NDQsLTMyOT
-M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
-MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE4OTc5NDM5NjYsMTY2MjMyMTk0NCwtMz
+I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
+MzYyNiwtMjA4ODc0NjYxMl19
 -->

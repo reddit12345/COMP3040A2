@@ -61,10 +61,14 @@ To describe the practical steps of how you host and format your resume on Github
 # More Resources
 ## Adding GIFs to Resume
 1. On Github, go to your repository where your resume is located.
-2. 
+2. Upload the .gif file you want to add to that repository.
+3. On your resume add in:
+`![Any Text Here](**ru)`
+
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDQ2NzIyNiwyMDcyOTc3NzIzLDEwMD
+eyJoaXN0b3J5IjpbLTIwNzg5NjYzNSwyMDcyOTc3NzIzLDEwMD
 Y0MzE4MjMsMjEzODk0NjI3NSwtNDEzNzMwODM3LDE2NzcxOTE4
 MjQsMjA2NDkzNjY1Myw5NjI0Mjc1MDQsMzUxMzI0MTgxLDEyMT
 c1Mjg2MDksMTA3OTIyMzA5LC02NDI0MjAwOTcsMTY2MjMyMTk0

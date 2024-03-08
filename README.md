@@ -6,6 +6,7 @@ To describe the practical steps of how you host and format your resume and to re
 - A resume in markdown format
 - A markdown editor
 - (Optional) Github pages or any other static site generator
+- README file (in Markdown format)
 
 # Instructions
 ## Use a lightweight Markdown
@@ -25,12 +26,14 @@ To describe the practical steps of how you host and format your resume and to re
 2. Find the necessary files needed to be placed in the repository.
 3. Once all files are ready to be committed, click on "**Commit Changes**".
 
-## Hosting a Static Website
+## Build a Static Website
 - Static site generators offers a good way to build documentation websites easily.
 - Site generators processes markup languages (like Markdown) to provide a unique variety of themes to let the documentation stand out.
-- Jekyll is one of many site generators 
+- Jekyll is one of many site generators currently being used by thousands.
+ 
+ ### Host
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTczMzE0MTAsMTY2MjMyMTk0NCwtMz
-I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
-MzYyNiwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTY3ODUwOTI2LDE2NjIzMjE5NDQsLTMyOT
+M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
+MjYsLTIwODg3NDY2MTJdfQ==
 -->

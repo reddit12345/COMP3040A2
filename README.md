@@ -24,8 +24,8 @@ To describe the practical steps of how you host and format your resume on Github
 ### Creating a Github repository
 1. On Github home page, click on **Home -> Repositories.**
 2. On the repositories section, click **New**.
-3. Give the repository a name. Optionally, you may add a description.
-4. Set it as public, then click "**Create Repository**
+3. Give the repository a name, preferably, "***username*.github.io**". Optionally, you may add a description.
+4. Set it as public, then click **Create Repository**.
 ### Uploading files
 1. To upload existing files, click on "**Add File**" -> "**Upload Files**".
 2. Find the necessary files needed to be placed in the repository.
@@ -44,10 +44,10 @@ To describe the practical steps of how you host and format your resume on Github
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NzA2MTc1MiwxMDA2NDMxODIzLDIxMz
-g5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNjQ5MzY2
-NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5LDEwNz
-kyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOTM0NTU2
-OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2MjYsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTExMDMwMDgxMDcsMTAwNjQzMTgyMywyMT
+M4OTQ2Mjc1LC00MTM3MzA4MzcsMTY3NzE5MTgyNCwyMDY0OTM2
+NjUzLDk2MjQyNzUwNCwzNTEzMjQxODEsMTIxNzUyODYwOSwxMD
+c5MjIzMDksLTY0MjQyMDA5NywxNjYyMzIxOTQ0LC0zMjkzNDU1
+NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYzNjI2LC
+0yMDg4NzQ2NjEyXX0=
 -->

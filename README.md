@@ -73,14 +73,17 @@ To describe the practical steps of how you host and format your resume on Github
 
 ### 1. Why is my static site not found?
 - Make sure that your **username** of your Github account is the same as the ***username*.github.io**
+- Check any spelling or grammatical errors and try again.
+- If the site is currently being built, you may need to wait for a few seconds and refresh the page.
 
+### 2. 
  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTQzMDEyMSwxMzgxMDgzNzk4LDIwNz
-I5Nzc3MjMsMTAwNjQzMTgyMywyMTM4OTQ2Mjc1LC00MTM3MzA4
-MzcsMTY3NzE5MTgyNCwyMDY0OTM2NjUzLDk2MjQyNzUwNCwzNT
-EzMjQxODEsMTIxNzUyODYwOSwxMDc5MjIzMDksLTY0MjQyMDA5
-NywxNjYyMzIxOTQ0LC0zMjkzNDU1NjksLTExNjkwMjM4MDEsMT
-UzNzczMTkzOSwxODIwNjYzNjI2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTk1NDIxODMsMTM4MTA4Mzc5OCwyMDcyOT
+c3NzIzLDEwMDY0MzE4MjMsMjEzODk0NjI3NSwtNDEzNzMwODM3
+LDE2NzcxOTE4MjQsMjA2NDkzNjY1Myw5NjI0Mjc1MDQsMzUxMz
+I0MTgxLDEyMTc1Mjg2MDksMTA3OTIyMzA5LC02NDI0MjAwOTcs
+MTY2MjMyMTk0NCwtMzI5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mz
+c3MzE5MzksMTgyMDY2MzYyNiwtMjA4ODc0NjYxMl19
 -->

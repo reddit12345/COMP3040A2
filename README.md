@@ -9,6 +9,8 @@ To describe the practical steps of how you host and format your resume on Github
 - README file (in Markdown format)
 
 # Instructions
+![The sample of my resume](resume-sample.gif)
+
 ## 1. Prepare your resume
 #### Etter's Principle: Structured Content
 - Using a lightweight Markdown editor to write your resume and your README file is essential to organizing our document which would also provide ease-of-use and efficiency.
@@ -55,15 +57,12 @@ To describe the practical steps of how you host and format your resume on Github
 4. Update necessary things on your resume.
 5. Click on **Commit Changes...** once you are finished.
 
-## 5. Adding GIFs
-![The sample of my resume](resume-sample.gif)
-1. Go to your repository where your resume (
 
-
-
+# More Resources
+## Adding GIF
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAyMzc1MDQsMjA3Mjk3NzcyMywxMD
+eyJoaXN0b3J5IjpbLTE2OTI4NzA0ODcsMjA3Mjk3NzcyMywxMD
 A2NDMxODIzLDIxMzg5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkx
 ODI0LDIwNjQ5MzY2NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMj
 E3NTI4NjA5LDEwNzkyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5

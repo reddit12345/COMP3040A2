@@ -21,10 +21,11 @@ To describe the practical steps of how you host and format your resume and to re
 3. Give the repository a name. Optionally, you may add a description.
 4. Set it as public, then click "**Create Repository**"
 ### Uploading files
-1. To upload existing files, click on "**Add File**" -> "
-2. 
+1. To upload existing files, click on "**Add File**" -> "**Upload Files**".
+2. Find the necessary files needed to be placed in the repository.
+3. Once all files are ready to be committed, click on 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQxMjg3OTI4LDE2NjIzMjE5NDQsLTMyOT
-M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
-MjYsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzNDI4MTM2NDQsMTY2MjMyMTk0NCwtMz
+I5MzQ1NTY5LC0xMTY5MDIzODAxLDE1Mzc3MzE5MzksMTgyMDY2
+MzYyNiwtMjA4ODc0NjYxMl19
 -->

@@ -51,12 +51,13 @@ To describe the practical steps of how you host and format your resume on Github
 ### Updating your Resume
 1. Go to the repository where your resume is located
 2. Click on the name of the resume file
-3. 
+3. Click the pencil logo near the right-hand side of the web page.
+4. Update nece
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTMzMDI1MCwxMDA2NDMxODIzLDIxMz
+eyJoaXN0b3J5IjpbMTQ1OTgyMzQxMiwxMDA2NDMxODIzLDIxMz
 g5NDYyNzUsLTQxMzczMDgzNywxNjc3MTkxODI0LDIwNjQ5MzY2
 NTMsOTYyNDI3NTA0LDM1MTMyNDE4MSwxMjE3NTI4NjA5LDEwNz
 kyMjMwOSwtNjQyNDIwMDk3LDE2NjIzMjE5NDQsLTMyOTM0NTU2

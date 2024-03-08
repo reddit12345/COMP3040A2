@@ -15,10 +15,11 @@ To describe the practical steps of how you host and format your resume and to re
 ## Use a Distributed Version Control System
 -   Making use of a distributed version control system (DVCS) is paramount in software development. This tool is incredibly powerful - offering scalability, auditing, collaboration, and recovery features essential for successful software development endeavors.
 - Github is one of the many DVCS out there and offers robust features to help you start, organize, and maintain your work development.
-###
-		-	
+### Creating a repository
+1. On Github home page, click on your account -> Repositories
+2. On the repositories section, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDY3MTEyMiwxNjYyMzIxOTQ0LC0zMj
-kzNDU1NjksLTExNjkwMjM4MDEsMTUzNzczMTkzOSwxODIwNjYz
-NjI2LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbNDY5NTYxMjEzLDE2NjIzMjE5NDQsLTMyOT
+M0NTU2OSwtMTE2OTAyMzgwMSwxNTM3NzMxOTM5LDE4MjA2NjM2
+MjYsLTIwODg3NDY2MTJdfQ==
 -->
